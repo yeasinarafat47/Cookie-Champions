@@ -1,0 +1,150 @@
+/* XL Device :1500px. */
+
+@media (min-width: 1500px) and (max-width: 1660px) {
+    .main_header_heading {
+        max-width: 1360px;
+    }
+    .main_header_text_and_btn h1 {
+        font-size: 122px;
+        line-height: 128px;
+    }
+    .main_header_text_and_btn p {
+        font-size: 23px;
+    }
+    .Flapjack_Favorites_area_bottom img {
+        top: -26%;
+    }
+    .Sweet_Selections {
+        font-size: 40px;
+    }
+    .Sweet_Selections_1 img {
+        left: 8px;
+    }
+    .Sweet_Selections_2 img {
+        left: 6px;
+    }
+    .Sweet_Selections_3 img {
+        left: 15px;
+    }
+    .video_info_wrapper {
+        position: relative;
+        top: -70px;
+    }
+    .single_cooke2 {
+        position: relative;
+        top: 0;
+    }
+    .single_cooke1 {
+        position: relative;
+        top: 115px;
+    }
+    .video_items_wrapper {
+        position: relative;
+        top: -5rem;
+    }
+    .order_now_section {
+        position: relative;
+        top: -5rem;
+        margin-bottom: -80px;
+    }
+    .order_now_section_bottom_img_galary_single_img1 img {
+        width: 330px;
+    }
+    .order_now_section_bottom_img_galary_single_img2 img {
+        width: 350px;
+    }
+    .order_now_section_bottom_img_galary_single_img3 img {
+        width: 330px;
+    }
+    .order_now_section_bottom_img_galary_single_img3 img {
+        width: 350px;
+    }
+    .footer_top_area {
+        max-width: 1400px;
+    }
+    .header_bottom_area_single_img img {
+        margin-left: -1px;
+    }
+}
+
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+.main_header_heading {
+	max-width: 1100px;
+	height: 90px;
+}
+.main_header_text_and_btn h1 {
+	font-size: 111px;
+	line-height: 113px;
+}
+.main_header_text_and_btn p {
+	font-size: 23px;
+	line-height: 26px;
+	margin-bottom: 35px;
+}
+.header_bg {
+	height: 710px;
+}
+.header_bottom_area_single_img img {
+	margin-left: 1px;
+}
+.Flapjack_Favorites_hero_img {
+	width: 22rem;
+}
+
+.Flapjack_Favorites_area_bottom_plate {
+	top: -290%;
+}
+.Flapjack_Favorites_area_bottom_plate {
+	top: -202%;
+}
+.Flapjack_Favorites_area_bottom_plate img{
+    width: 60%;
+}
+.mySwipertwo_swiper_arrows {
+	display: block;
+}
+.swiper.mySwipertwo {
+	position: relative;
+	top: -157%;
+}
+.Sweet_Selections {
+	font-size: 30px;
+}
+.Sweet_Selections_1 img {
+	left: 14px;
+}
+.Sweet_Selections_2 img {
+	left: 14px;
+}
+.Sweet_Selections_3 img {
+	left: 14px;
+}
+.Flavor_Selection_Section h2 {
+	font-size: 60px;
+	line-height: 76.35px;
+}
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+}
+
+ 
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+ 
+ 
+/* Extra small Device. */
+@media (max-width: 767px) {
+
+}
+ 
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+}
+
